@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(245, 246, 254) ;
+    border: rgb(21, 21, 21);
+    margin:40% 40% 40% 20%;
+    
+    
+    
+    
+}
+input{
+    height:60px;
+    width:350px;
+    border-color: black;
+    font-size:30px;
+  
+    
+}
+  button{
+    height:auto;
+    width:82.5px;
+    border-color: rgb(17, 16, 16);
+    align-self: center;
+    font-size:30px;
+    
+  }
+#hhh
+{
+    background-color: black;
+    padding:2px;
+    resize:horizontal;
+    
+}
+#box1
+{
+  width: 413%;
+
+}
+
+
+
